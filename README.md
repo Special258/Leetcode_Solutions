@@ -142,14 +142,17 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -158,8 +161,18 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
