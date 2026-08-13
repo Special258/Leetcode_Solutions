@@ -138,6 +138,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
+| [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -196,4 +197,12 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
