@@ -137,6 +137,7 @@ Leetcode_Solutions/
 ## Array
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 ## Math
 |  |
@@ -191,4 +192,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
