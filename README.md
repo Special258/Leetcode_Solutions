@@ -140,6 +140,7 @@ Leetcode_Solutions/
 | [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Special258/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
 |  |
 | ------- |
@@ -205,4 +206,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Special258/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 <!---LeetCode Topics End-->
