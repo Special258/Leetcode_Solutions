@@ -155,6 +155,7 @@ Leetcode_Solutions/
 | [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Special258/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
 |  |
 | ------- |
