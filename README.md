@@ -134,6 +134,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Special258/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ Leetcode_Solutions/
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Special258/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Math
@@ -254,4 +256,12 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
