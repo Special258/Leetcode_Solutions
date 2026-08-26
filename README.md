@@ -152,6 +152,7 @@ Leetcode_Solutions/
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Special258/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Special258/Leetcode_Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
@@ -161,6 +162,7 @@ Leetcode_Solutions/
 | [1510-stone-game-iv](https://github.com/Special258/Leetcode_Solutions/tree/master/1510-stone-game-iv) |
 | [1927-sum-game](https://github.com/Special258/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Special258/Leetcode_Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Dynamic Programming
@@ -236,12 +238,14 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Special258/Leetcode_Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Binary Search
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Backtracking
 |  |
 | ------- |
@@ -278,4 +282,12 @@ Leetcode_Solutions/
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Special258/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Special258/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
