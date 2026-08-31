@@ -150,6 +150,7 @@ Leetcode_Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Special258/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
@@ -243,6 +244,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 ## Bit Manipulation
 |  |
@@ -278,6 +280,7 @@ Leetcode_Solutions/
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
