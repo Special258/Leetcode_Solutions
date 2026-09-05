@@ -151,6 +151,7 @@ Leetcode_Solutions/
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Special258/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -276,6 +277,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Special258/Leetcode_Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -332,6 +334,7 @@ Leetcode_Solutions/
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Special258/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Linked List
 |  |
