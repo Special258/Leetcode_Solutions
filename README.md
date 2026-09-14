@@ -157,6 +157,7 @@ Leetcode_Solutions/
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
+| [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Special258/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -275,6 +276,7 @@ Leetcode_Solutions/
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -318,6 +320,7 @@ Leetcode_Solutions/
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
 |  |
