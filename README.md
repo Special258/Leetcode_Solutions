@@ -142,6 +142,7 @@ Leetcode_Solutions/
 | [1927-sum-game](https://github.com/Special258/Leetcode_Solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2833-furthest-point-from-origin](https://github.com/Special258/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Special258/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Special258/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -349,6 +350,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
+| [2833-furthest-point-from-origin](https://github.com/Special258/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Segment Tree
 |  |
