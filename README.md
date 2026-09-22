@@ -260,19 +260,23 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Two Pointers
 |  |
 | ------- |
