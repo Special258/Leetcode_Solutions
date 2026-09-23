@@ -259,11 +259,13 @@ Leetcode_Solutions/
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Breadth-First Search
@@ -275,6 +277,7 @@ Leetcode_Solutions/
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 ## Two Pointers
@@ -439,4 +442,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Special258/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Stack
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
