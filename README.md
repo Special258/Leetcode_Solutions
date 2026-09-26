@@ -176,6 +176,7 @@ Leetcode_Solutions/
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Special258/Leetcode_Solutions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Special258/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Special258/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -307,6 +308,7 @@ Leetcode_Solutions/
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Special258/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Special258/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Special258/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
@@ -416,6 +418,7 @@ Leetcode_Solutions/
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Special258/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Special258/Leetcode_Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Linked List
 |  |
