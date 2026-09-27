@@ -138,6 +138,7 @@ Leetcode_Solutions/
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Special258/Leetcode_Solutions/tree/master/1927-sum-game) |
@@ -465,8 +466,13 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
