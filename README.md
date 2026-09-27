@@ -195,6 +195,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Special258/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -337,6 +338,7 @@ Leetcode_Solutions/
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Special258/Leetcode_Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -463,4 +465,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
