@@ -133,6 +133,7 @@ Leetcode_Solutions/
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Special258/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0058-length-of-last-word](https://github.com/Special258/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
@@ -480,6 +481,7 @@ Leetcode_Solutions/
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Special258/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -491,6 +493,7 @@ Leetcode_Solutions/
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Special258/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
