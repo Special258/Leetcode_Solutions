@@ -282,6 +282,7 @@ Leetcode_Solutions/
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -289,6 +290,7 @@ Leetcode_Solutions/
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ Leetcode_Solutions/
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0110-balanced-binary-tree) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Two Pointers
 |  |
 | ------- |
@@ -483,6 +486,7 @@ Leetcode_Solutions/
 | ------- |
 | [0020-valid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Special258/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
