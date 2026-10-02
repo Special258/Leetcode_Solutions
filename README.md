@@ -152,6 +152,7 @@ Leetcode_Solutions/
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Special258/Leetcode_Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Special258/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -325,6 +326,7 @@ Leetcode_Solutions/
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Special258/Leetcode_Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Special258/Leetcode_Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
