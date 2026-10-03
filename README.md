@@ -140,6 +140,7 @@ Leetcode_Solutions/
 | [0058-length-of-last-word](https://github.com/Special258/Leetcode_Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Special258/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0940-distinct-subsequences-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Special258/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -315,6 +316,7 @@ Leetcode_Solutions/
 | ------- |
 | [0031-next-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Special258/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
