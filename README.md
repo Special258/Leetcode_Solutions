@@ -142,6 +142,7 @@ Leetcode_Solutions/
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Special258/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Special258/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -304,6 +305,7 @@ Leetcode_Solutions/
 | ------- |
 | [0100-same-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -377,6 +379,7 @@ Leetcode_Solutions/
 | [0022-generate-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/Special258/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Greedy
 |  |
 | ------- |
