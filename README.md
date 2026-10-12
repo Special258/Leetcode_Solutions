@@ -177,6 +177,7 @@ Leetcode_Solutions/
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0088-merge-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Special258/Leetcode_Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
@@ -335,6 +336,7 @@ Leetcode_Solutions/
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Special258/Leetcode_Solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Special258/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -422,6 +424,7 @@ Leetcode_Solutions/
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Special258/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -461,6 +464,7 @@ Leetcode_Solutions/
 | ------- |
 | [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Special258/Leetcode_Solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -481,6 +485,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Special258/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Special258/Leetcode_Solutions/tree/master/0190-reverse-bits) |
 ## Heap (Priority Queue)
 |  |
@@ -548,4 +553,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Special258/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
