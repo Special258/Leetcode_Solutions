@@ -370,6 +370,7 @@ Leetcode_Solutions/
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Special258/Leetcode_Solutions/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Special258/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Special258/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Special258/Leetcode_Solutions/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Special258/Leetcode_Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -496,6 +497,7 @@ Leetcode_Solutions/
 | [0023-merge-k-sorted-lists](https://github.com/Special258/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Special258/Leetcode_Solutions/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/Special258/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
