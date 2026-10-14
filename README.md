@@ -566,4 +566,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
+## Database
+|  |
+| ------- |
+| [0196-delete-duplicate-emails](https://github.com/Special258/Leetcode_Solutions/tree/master/0196-delete-duplicate-emails) |
 <!---LeetCode Topics End-->
