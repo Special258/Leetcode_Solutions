@@ -219,6 +219,7 @@ Leetcode_Solutions/
 | ------- |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Special258/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Special258/Leetcode_Solutions/tree/master/0836-rectangle-overlap) |
@@ -247,6 +248,7 @@ Leetcode_Solutions/
 | ------- |
 | [0022-generate-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0070-climbing-stairs](https://github.com/Special258/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
@@ -579,4 +581,8 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Special258/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Special258/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
