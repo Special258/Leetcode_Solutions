@@ -217,6 +217,7 @@ Leetcode_Solutions/
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Special258/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Special258/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3904-smallest-stable-index-ii) |
 ## Math
@@ -249,6 +250,7 @@ Leetcode_Solutions/
 | [3871-count-commas-in-range-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/Special258/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -438,6 +440,7 @@ Leetcode_Solutions/
 | [3483-unique-3-digit-even-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3886-sum-of-sortable-integers](https://github.com/Special258/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
 |  |
 | ------- |
@@ -507,6 +510,7 @@ Leetcode_Solutions/
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Special258/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3886-sum-of-sortable-integers](https://github.com/Special258/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
 ## Linked List
 |  |
 | ------- |
