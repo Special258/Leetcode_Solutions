@@ -192,6 +192,7 @@ Leetcode_Solutions/
 | [1732-find-the-highest-altitude](https://github.com/Special258/Leetcode_Solutions/tree/master/1732-find-the-highest-altitude) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Special258/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1882-process-tasks-using-servers](https://github.com/Special258/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Special258/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Special258/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -556,6 +557,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Special258/Leetcode_Solutions/tree/master/0023-merge-k-sorted-lists) |
+| [1882-process-tasks-using-servers](https://github.com/Special258/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Special258/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Merge Sort
 |  |
