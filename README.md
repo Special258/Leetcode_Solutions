@@ -184,6 +184,7 @@ Leetcode_Solutions/
 | [1140-stone-game-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/1140-stone-game-ii) |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Special258/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -337,6 +338,7 @@ Leetcode_Solutions/
 | [0144-binary-tree-preorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Special258/Leetcode_Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -344,6 +346,7 @@ Leetcode_Solutions/
 | [0101-symmetric-tree](https://github.com/Special258/Leetcode_Solutions/tree/master/0101-symmetric-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Binary Tree
 |  |
@@ -400,6 +403,7 @@ Leetcode_Solutions/
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/1260-shift-2d-grid) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Special258/Leetcode_Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Special258/Leetcode_Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
@@ -477,6 +481,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Special258/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Special258/Leetcode_Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -515,6 +520,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Special258/Leetcode_Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Special258/Leetcode_Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Sorting
