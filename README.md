@@ -142,6 +142,7 @@ Leetcode_Solutions/
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Special258/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0242-valid-anagram](https://github.com/Special258/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Special258/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -383,6 +384,7 @@ Leetcode_Solutions/
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Special258/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Special258/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -538,6 +540,7 @@ Leetcode_Solutions/
 | [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Special258/Leetcode_Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/Special258/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Special258/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
