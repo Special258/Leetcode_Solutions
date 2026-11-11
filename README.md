@@ -155,6 +155,7 @@ Leetcode_Solutions/
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/Special258/Leetcode_Solutions/tree/master/1927-sum-game) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Special258/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Special258/Leetcode_Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2409-count-days-spent-together](https://github.com/Special258/Leetcode_Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -196,6 +197,7 @@ Leetcode_Solutions/
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Special258/Leetcode_Solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1882-process-tasks-using-servers](https://github.com/Special258/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Special258/Leetcode_Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Special258/Leetcode_Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Special258/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
