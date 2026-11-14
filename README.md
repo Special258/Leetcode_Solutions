@@ -149,6 +149,7 @@ Leetcode_Solutions/
 | [0940-distinct-subsequences-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Special258/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [1189-maximum-number-of-balloons](https://github.com/Special258/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Special258/Leetcode_Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Special258/Leetcode_Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -394,6 +395,7 @@ Leetcode_Solutions/
 | [0141-linked-list-cycle](https://github.com/Special258/Leetcode_Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/Special258/Leetcode_Solutions/tree/master/0242-valid-anagram) |
+| [1189-maximum-number-of-balloons](https://github.com/Special258/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/Special258/Leetcode_Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Special258/Leetcode_Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Special258/Leetcode_Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -502,6 +504,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Special258/Leetcode_Solutions/tree/master/0169-majority-element) |
+| [1189-maximum-number-of-balloons](https://github.com/Special258/Leetcode_Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1267-count-servers-that-communicate](https://github.com/Special258/Leetcode_Solutions/tree/master/1267-count-servers-that-communicate) |
 | [2029-stone-game-ix](https://github.com/Special258/Leetcode_Solutions/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Special258/Leetcode_Solutions/tree/master/2833-furthest-point-from-origin) |
