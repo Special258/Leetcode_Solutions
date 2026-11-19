@@ -142,6 +142,7 @@ Leetcode_Solutions/
 | [0115-distinct-subsequences](https://github.com/Special258/Leetcode_Solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Special258/Leetcode_Solutions/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Special258/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Special258/Leetcode_Solutions/tree/master/0242-valid-anagram) |
 | [0301-remove-invalid-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Special258/Leetcode_Solutions/tree/master/0856-score-of-parentheses) |
@@ -253,6 +254,7 @@ Leetcode_Solutions/
 | [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Special258/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Special258/Leetcode_Solutions/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Special258/Leetcode_Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0292-nim-game](https://github.com/Special258/Leetcode_Solutions/tree/master/0292-nim-game) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Special258/Leetcode_Solutions/tree/master/0628-maximum-product-of-three-numbers) |
