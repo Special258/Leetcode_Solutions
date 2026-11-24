@@ -184,6 +184,7 @@ Leetcode_Solutions/
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
 | [0046-permutations](https://github.com/Special258/Leetcode_Solutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/Special258/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Special258/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
@@ -256,6 +257,7 @@ Leetcode_Solutions/
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Special258/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/Special258/Leetcode_Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Special258/Leetcode_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Special258/Leetcode_Solutions/tree/master/0070-climbing-stairs) |
@@ -446,6 +448,7 @@ Leetcode_Solutions/
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Special258/Leetcode_Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Special258/Leetcode_Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Special258/Leetcode_Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1254-number-of-closed-islands](https://github.com/Special258/Leetcode_Solutions/tree/master/1254-number-of-closed-islands) |
