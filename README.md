@@ -258,6 +258,7 @@ Leetcode_Solutions/
 | [3934-smallest-unique-subarray](https://github.com/Special258/Leetcode_Solutions/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Special258/Leetcode_Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -523,6 +524,7 @@ Leetcode_Solutions/
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Special258/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Special258/Leetcode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3946-maximum-number-of-items-from-sale-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3946-maximum-number-of-items-from-sale-i) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Enumeration
 |  |
 | ------- |
@@ -625,6 +627,7 @@ Leetcode_Solutions/
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Special258/Leetcode_Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Special258/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/Special258/Leetcode_Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -649,6 +652,7 @@ Leetcode_Solutions/
 | [1882-process-tasks-using-servers](https://github.com/Special258/Leetcode_Solutions/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Special258/Leetcode_Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Special258/Leetcode_Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/Special258/Leetcode_Solutions/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Merge Sort
 |  |
 | ------- |
